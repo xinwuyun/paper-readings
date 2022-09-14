@@ -1,8 +1,15 @@
+# 忽略的目录
+0*/
+10-Learning/
+.trash/
+.obsidian
+# 忽略的文件
+.obsidian/workspace
+.obsidian/plugins/recent-files-obsidian/data.json
+
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-/.obsidian
-/.idea
-/posts/.obsidian/
-/.vscode
+
+/11-Posts/.obsidian/
 /.yarn
 
 # dependencies
