@@ -1,58 +1,67 @@
-## What is MindStone?
-MindStone is a free open-source alternative solution to [Obsidian Publish](https://obsidian.md/publish)
+---
+title: obsidian安装和使用说明
+date: 2022-03-13 09:57:43
+---
 
-Here how it look like once published, checkout [demo version](https://mindstone.tuancao.me/) here:
+# obsidian_vault_template_for_researcher
 
-![](public/images/CleanShot%202022-04-20%20at%2008.34.17@2x.png)
+### 写在前面
 
-This website include a published version of default Obsidian Help vault, See it in action here 
+从接触到使用 obsidian 已经有一段时间了，感觉这个工具用好了应该对搞科研有较大帮助。软件界面如下：
 
-**MindStone features:**
-
--  ✅ **Drop-in** support for (default) **Obsidian Vault** 
--  ✅ `[[Wiki Link]]` built-in support
--  ✅ **Folder-base** navigation side bar
--  ✅ Backlink support out of the box
--  ✅ Interactive Graph view 
--  ✅ **Easy to deploy** to Netlify, Vercel...
-
-## Getting started
-### Run on your local machine
-
-Steps to run it on your local machine:
-1. Clone this [Github repo](https://github.com/TuanManhCao/digital-garden)
-2. Install [yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable) package manager 
-3. Copy all of your **markdown** file (`.md` only) and folder to `/posts/` **except** `/posts/index.md` file
-4. Copy all of your images from your Obsidian Vault to `/public/images/` folder 
-5. Go to root folder of your project, run `yarn && yarn run dev`
-6. Open this link in your browser http://localhost:3000/ 
-
-If you prefer video content have a look at my 📺 [walk through video](https://youtu.be/7_SmWA-_Wx8)
-
-### Publish to the internet
-
-Setup environment (with Netlify)
-1. Create your Github account and clone [my repository](https://github.com/TuanManhCao/digital-garden)
-2. Create Netlify account and follow [this instruction](https://www.netlify.com/blog/2020/11/30/how-to-deploy-next.js-sites-to-netlify/) 
+![obsidian界面概览](https://sheldon-notes.oss-cn-shanghai.aliyuncs.com/img/image-20211120145712338.png)
 
 
-Your normal workflow for publishing content, after initial setup is:
-1. Simply writing your content in Obisidian (or your favourite Markdown editor)
-2. Commit your changes and Push it to your Github repo
+### 下载并打开vault模板库并查看说明书
 
-If you prefer video content, watch my 📺 [walk through video](https://youtu.be/n8QDO6l64aw) here 
+1. 下载安装软件：目前 obsidian 是开源免费的跨平台软件，可以直接到[官网](https://obsidian.md/download)下载安装包后安装。
 
-## Future development 
+2. 下载了vault模板之后，解压到一个指定位置，可以是电脑上的硬盘，也可以是移动硬盘甚至U盘，然后重命名vault。比如我把 vault 命名为 working，然后放到了移动硬盘的 projects 目录下：`X:\projects\working`。
 
-These are just some basic features for MindStone v1, many more are coming (if I find enough of interest and this will probably a premium/paid option):
-- 🎯 Obsidian, Notion, VSCode Plugin 
-- 🎯 Page Preview (like Obsidian Core plugin)
-- 🎯 Andy Sliding pane
-- 🎯 Full text search with `Cmd + K`
-- 🎯 Infinite canvas for browsing through notes and connections
+3. 打开该模板库，注意关闭「安全模式」，关闭obsidian最新版提供的「实时预览」功能，进入到模板库中可查看 `03-Projects` 中的「黑曜石玩家指南」project，里边有非常完整的关于 `写日志`，`读文献`和`做课题项目`的工作流程操作说明。
 
-### Some know issues
-This an early version of MindStone, which mean there are bugs and issues. Below are some known issues, that I plan to work on:
-- Graphview does not load when clicking on side-bar or click node on graphview, browser reload will refresh it state
-- Graph view layout and interaction is still very rough. More UI/UX improvements are needed.
-- Transclusion is not working yet.
+
+### 黑曜石玩家指南书籍目录
+
+**第一章-obsidian入门** 
+
+1. [[软件下载安装]]
+2. [[zotero-obsidian联动配置]]
+3. [[开箱写日志]]
+4. [[obsidian撰写草稿]]
+5. [[使用手机撰写日志]]
+6. [[每周定期汇总小结]]
+7. [[在obsidian中写幻灯片]]
+8. [[本章小结-恭喜入门obsidian]]
+
+**第二章-obsidian读文献**
+
+1. [[当期文献速览]] 
+2. [[入库文献泛读]] 
+3. [[进一步阅读原文]] 
+4. [[解析文章骨架]] 
+5. [[重要综述如何阅读]] 
+6. [[阶段性文献阅读小结]] 
+7. [[主题阅读与比较阅读]] 
+8. [[跟踪领域内大牛]] 
+9. [[本章小结-恭喜习得内功]]
+
+**第三章-obsidian做课题**
+
+1. [[新建课题项目]] 
+2. [[规范的实验记录]] 
+3. [[整理实验方法]] 
+4. [[试剂耗材仪器建卡管理]] 
+5. [[工作小结与周汇报]] 
+6.  [[撰写论文草稿]] 
+7.  [[完整导出项目]]
+8.  [[本章小结-祝您科研精进]]
+
+**第四章-补充内容**
+
+1. [[obsidian快捷键]]
+2. [[obsidian第三方插件列表]]
+3. [[obsidian模板库更新方法]]
+4. [[python代码说明与调试方法]]
+5. [[更新日志]]
+6. [[结束语]]
