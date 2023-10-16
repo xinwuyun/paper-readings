@@ -1,6 +1,6 @@
 ---
 alias: Dean2008
-tags: unread
+tags: 
 rating: ⭐
 share: false
 ptype: article

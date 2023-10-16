@@ -29,7 +29,7 @@ significance:: 基于 MoE 层，可以做到增加参数量从而提高模型能
 potential:: 可以用来构建大型语言模型，在机器翻译基准任务上，可以超过 state-of-the-art，同时计算量更小。
 ![Pasted image 20220820145954.png](https://cdn.jsdelivr.net/gh/xinwuyun/pictures@main/2022/08/22/ce427c628feaa645a2c43b4bc4f9cd3c-Pasted%20image%2020220820145954-fbd3e6.png)
 
-这里，MoE层嵌入在堆叠的[[RNN笔记|RNN]] 中的。在这种情况下，稀疏门控函数选择两位专家进行计算。它们的输出由门控网络的输出调制。
+这里，MoE层嵌入在堆叠的[[../../10-Learning/6.RNN与NLP应用/RNN笔记|RNN]] 中的。在这种情况下，稀疏门控函数选择两位专家进行计算。它们的输出由门控网络的输出调制。
 
 每个专家是一个简单的前馈神经网络。
 

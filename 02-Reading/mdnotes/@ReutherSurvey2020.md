@@ -1,6 +1,6 @@
 ---
 alias: ReutherSurvey2020
-tags: unread
+tags: 
 rating: ⭐
 share: false
 ptype: article

@@ -12,6 +12,9 @@ ptype: article
 {{DOI}}
 
 {{localLibrary}}
+{{pdfAttachments}}
+
+{{abstractNote}}
 
 ***
 
