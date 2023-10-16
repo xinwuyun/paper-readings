@@ -1,0 +1,21 @@
+{
+  "port": "2022",
+  "autoReload": true,
+  "exportDirectory": "/",
+  "enableChalkboard": true,
+  "enableOverview": false,
+  "enableMenu": true,
+  "enablePointer": false,
+  "enableTimeBar": false,
+  "theme": "beige",
+  "highlightTheme": "zenburn",
+  "transition": "convex",
+  "transitionSpeed": "default",
+  "controls": true,
+  "progress": false,
+  "slideNumber": true,
+  "showGrid": false,
+  "autoComplete": "inPreview",
+  "paneMode": "split",
+  "motm": "2023-10-04T15:35:35.891Z"
+}

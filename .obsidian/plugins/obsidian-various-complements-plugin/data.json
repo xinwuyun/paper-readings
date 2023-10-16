@@ -1,0 +1,123 @@
+{
+  "strategy": "japanese",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 150,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^【[\\$#@^&*(!~`",
+  "showMatchStrategy": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "Assets": {
+      "Assets": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1696644921636
+        }
+      }
+    },
+    "learning": {
+      "learning": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1696817837340
+        }
+      }
+    },
+    "论文": {
+      "论文": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1696817841136
+        }
+      }
+    },
+    "论文草稿模板": {
+      "论文草稿模板": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1696817842114
+        }
+      }
+    },
+    "Simulation": {
+      "Simulation": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1697271375186
+        }
+      }
+    },
+    "Rasterization": {
+      "Rasterization": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1697272570676
+        }
+      }
+    },
+    "Meshes": {
+      "Meshes": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1697274277136
+        }
+      }
+    },
+    "Tracing": {
+      "Tracing": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1697274343435
+        }
+      }
+    },
+    "shading": {
+      "shading": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1697274384313
+        }
+      }
+    },
+    "Tracking": {
+      "Tracking": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1697425672077
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "uploadByClipSwitch": true,
+  "uploader": "PicGo-Core",
+  "uploadServer": "http://127.0.0.1:36677/upload",
+  "picgoCorePath": "\\. \"/Users/chentong/.nvm/nvm.sh\" && export PATH=\"/opt/homebrew/bin:$PATH\" && /opt/homebrew/bin/npx picgo u",
+  "menuMode": "auto",
+  "workOnNetWork": false,
+  "fixPath": false
+}

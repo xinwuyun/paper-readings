@@ -1,0 +1,1040 @@
+{
+  "workspaces": {
+    "文献阅读": {
+      "main": {
+        "id": "9a0780749afe3857",
+        "type": "split",
+        "children": [
+          {
+            "id": "0d255cdd69daa9bf",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-MOC/阅读清单.md",
+                "mode": "preview"
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "169762c0897285b5",
+        "type": "split",
+        "children": [
+          {
+            "id": "66a927cf4be47876",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3090910a3bbb4bfa",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "d4cc5673d41093ba",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": true,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "af328bc8c7dd1264",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 207,
+        "collapsed": true
+      },
+      "right": {
+        "id": "6e7011190a6a4416",
+        "type": "split",
+        "children": [
+          {
+            "id": "2c47daab7a7f6b09",
+            "type": "tabs",
+            "dimension": 40.609137055837564,
+            "children": [
+              {
+                "id": "ec1d354533e6cbd2",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "0d92b31ac7bc3511",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "b4bbb6d3769d62dc",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "4f101d806a54a17c",
+            "type": "tabs",
+            "dimension": 59.390862944162436,
+            "children": [
+              {
+                "id": "450ad81cf27a4dff",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "00-MOC/阅读清单.md"
+                  }
+                }
+              },
+              {
+                "id": "227681cc38450669",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "00-MOC/阅读清单.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "60ed30d1cc6d4c8d",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 245
+      },
+      "active": "0d255cdd69daa9bf"
+    },
+    "日志草稿": {
+      "main": {
+        "id": "9a0780749afe3857",
+        "type": "split",
+        "children": [
+          {
+            "id": "b925b1fa789215ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Projects/99-黑曜石玩家指南/99-黑曜石玩家指南.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "b925b1fa789215ee",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03-Projects/99-黑曜石玩家指南/99-黑曜石玩家指南.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                }
+              ]
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "169762c0897285b5",
+        "type": "split",
+        "children": [
+          {
+            "id": "66a927cf4be47876",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3090910a3bbb4bfa",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "d4cc5673d41093ba",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "快捷键",
+                    "matchingCase": true,
+                    "explainSearch": true,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "af328bc8c7dd1264",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 207
+      },
+      "right": {
+        "id": "6e7011190a6a4416",
+        "type": "split",
+        "children": [
+          {
+            "id": "2c47daab7a7f6b09",
+            "type": "tabs",
+            "dimension": 38.66498740554156,
+            "children": [
+              {
+                "id": "ec1d354533e6cbd2",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "0d92b31ac7bc3511",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "b4bbb6d3769d62dc",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "4f101d806a54a17c",
+            "type": "tabs",
+            "dimension": 61.33501259445844,
+            "children": [
+              {
+                "id": "450ad81cf27a4dff",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "03-Projects/99-黑曜石玩家指南/99-黑曜石玩家指南.md"
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "227681cc38450669",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "03-Projects/99-黑曜石玩家指南/99-黑曜石玩家指南.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "60ed30d1cc6d4c8d",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "1efe55f94e0499fb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "08-Assets/Scripts/Utils.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "leaf": "1efe55f94e0499fb",
+                      "group": null,
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"08-Assets/Scripts/Utils.md\",\"mode\":\"preview\",\"source\":false}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "leaf": "1efe55f94e0499fb",
+                      "group": null,
+                      "state": "{\"type\":\"empty\",\"state\":{}}",
+                      "eState": "{}"
+                    }
+                  ]
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 229
+      },
+      "active": "b925b1fa789215ee"
+    },
+    "学习": {
+      "main": {
+        "id": "9a0780749afe3857",
+        "type": "split",
+        "children": [
+          {
+            "id": "61c27d92c8f81a06",
+            "type": "split",
+            "children": [
+              {
+                "id": "64518f6d7e487fe0",
+                "type": "split",
+                "children": [
+                  {
+                    "id": "8c5c5aa94b7d2888",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "03-Projects/99-黑曜石玩家指南/2-obsidian读文献/入库文献泛读.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    },
+                    "pane-relief:history-v1": {
+                      "pos": 0,
+                      "stack": [
+                        {
+                          "leaf": "8c5c5aa94b7d2888",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03-Projects/99-黑曜石玩家指南/2-obsidian读文献/入库文献泛读.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{\"scroll\":0}"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "id": "c870987ed66e59cc",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "00-MOC/阅读清单.md",
+                        "mode": "preview",
+                        "source": false
+                      }
+                    },
+                    "pane-relief:history-v1": {
+                      "pos": 0,
+                      "stack": [
+                        {
+                          "leaf": "c870987ed66e59cc",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00-MOC/阅读清单.md\",\"mode\":\"preview\",\"source\":false}}",
+                          "eState": "{\"scroll\":0.9622641509433962}"
+                        },
+                        {
+                          "leaf": "c870987ed66e59cc",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03-Projects/99-黑曜石玩家指南/2-obsidian读文献/入库文献泛读.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{\"scroll\":0.4339622641509434}"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "id": "7e13f031560d0999",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "02-Reading/mdnotes/@barhamPathwaysAsynchronousDistributed2022.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    },
+                    "pane-relief:history-v1": {
+                      "pos": 0,
+                      "stack": [
+                        {
+                          "leaf": "7e13f031560d0999",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02-Reading/mdnotes/@barhamPathwaysAsynchronousDistributed2022.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{\"scroll\":9.479166666666666}"
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "direction": "vertical"
+              },
+              {
+                "id": "2891628f49607006",
+                "type": "split",
+                "children": [
+                  {
+                    "id": "1882821cfc9f4a1f",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "03-Projects/99-黑曜石玩家指南/2-obsidian读文献/入库文献泛读.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    },
+                    "pane-relief:history-v1": {
+                      "pos": 0,
+                      "stack": [
+                        {
+                          "leaf": "1882821cfc9f4a1f",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03-Projects/99-黑曜石玩家指南/2-obsidian读文献/入库文献泛读.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":77,\"ch\":124},\"to\":{\"line\":77,\"ch\":124}},\"scroll\":70.59895833333333}"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "id": "b6a1224117001576",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "03-Projects/99-黑曜石玩家指南/2-obsidian读文献/入库文献泛读.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    },
+                    "pane-relief:history-v1": {
+                      "pos": 0,
+                      "stack": [
+                        {
+                          "leaf": "b6a1224117001576",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03-Projects/99-黑曜石玩家指南/2-obsidian读文献/入库文献泛读.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":63,\"ch\":92},\"to\":{\"line\":63,\"ch\":92}},\"scroll\":57.086588541666664}"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "id": "520797ab1e69dcc6",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "03-Projects/99-黑曜石玩家指南/2-obsidian读文献/当期文献速览.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    },
+                    "pane-relief:history-v1": {
+                      "pos": 0,
+                      "stack": [
+                        {
+                          "leaf": "520797ab1e69dcc6",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03-Projects/99-黑曜石玩家指南/2-obsidian读文献/当期文献速览.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":44},\"to\":{\"line\":34,\"ch\":44}},\"scroll\":61.349934895833336}"
+                        },
+                        {
+                          "leaf": "520797ab1e69dcc6",
+                          "group": null,
+                          "state": "{\"type\":\"empty\",\"state\":{}}",
+                          "eState": "{}"
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "direction": "vertical"
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "169762c0897285b5",
+        "type": "split",
+        "children": [
+          {
+            "id": "66a927cf4be47876",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3090910a3bbb4bfa",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "d4cc5673d41093ba",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": true,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "af328bc8c7dd1264",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 207
+      },
+      "right": {
+        "id": "6e7011190a6a4416",
+        "type": "split",
+        "children": [
+          {
+            "id": "2c47daab7a7f6b09",
+            "type": "tabs",
+            "dimension": 40.609137055837564,
+            "children": [
+              {
+                "id": "ec1d354533e6cbd2",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "0d92b31ac7bc3511",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "b4bbb6d3769d62dc",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "4f101d806a54a17c",
+            "type": "tabs",
+            "dimension": 59.390862944162436,
+            "children": [
+              {
+                "id": "450ad81cf27a4dff",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "02-Reading/mdnotes/@barhamPathwaysAsynchronousDistributed2022.md"
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "227681cc38450669",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "02-Reading/mdnotes/@barhamPathwaysAsynchronousDistributed2022.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "60ed30d1cc6d4c8d",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 245
+      },
+      "active": "7e13f031560d0999"
+    },
+    "C++并发编程": {
+      "main": {
+        "id": "9a0780749afe3857",
+        "type": "split",
+        "children": [
+          {
+            "id": "05e07f5741cdd020",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10-Learning/C++编程实战第二版/content/chapter1/1.1-chinese.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "05e07f5741cdd020",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10-Learning/C++编程实战第二版/content/chapter1/1.1-chinese.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "05e07f5741cdd020",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10-Learning/C++编程实战第二版/SUMMARY.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "05e07f5741cdd020",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10-Learning/C++编程实战第二版/content/chapter1/1.0-chinese.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":7.516949152542373}"
+                },
+                {
+                  "leaf": "05e07f5741cdd020",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10-Learning/C++编程实战第二版/SUMMARY.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "05e07f5741cdd020",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10-Learning/C++编程实战第二版/README.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "05e07f5741cdd020",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10-Learning/C++编程实战第二版/SUMMARY.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "05e07f5741cdd020",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10-Learning/C++编程实战第二版/README.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "05e07f5741cdd020",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10-Learning/CPP并发编程实战第二版Gitbook版/SUMMARY.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0.375}"
+                },
+                {
+                  "leaf": "05e07f5741cdd020",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10-Learning/CPP并发编程实战第二版Gitbook版/README.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "05e07f5741cdd020",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10-Learning/CPP并发编程实战第二版Gitbook版/content/chapter3-线程间共享数据/3.4-本章总结.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "05e07f5741cdd020",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10-Learning/CPP并发编程实战第二版Gitbook版/content/chapter3-线程间共享数据/3.3-保护共享数据的替代设施.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "05e07f5741cdd020",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10-Learning/CPP并发编程实战第二版Gitbook版/content/chapter3-线程间共享数据/3.2-使用互斥量保护共享数据.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "05e07f5741cdd020",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10-Learning/CPP并发编程实战第二版Gitbook版/content/chapter3-线程间共享数据/3.1-共享数据带来的问题.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "05e07f5741cdd020",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10-Learning/CPP并发编程实战第二版Gitbook版/content/chapter3-线程间共享数据/3.0-线程间共享数据.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "05e07f5741cdd020",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10-Learning/CPP并发编程实战第二版Gitbook版/README.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":70},\"to\":{\"line\":44,\"ch\":14}},\"scroll\":26.975260416666668}"
+                },
+                {
+                  "leaf": "05e07f5741cdd020",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10-Learning/CPP并发编程实战第二版Gitbook版/SUMMARY.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":46},\"to\":{\"line\":22,\"ch\":46}},\"scroll\":0.1039}"
+                },
+                {
+                  "leaf": "05e07f5741cdd020",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10-Learning/CPP并发编程实战第二版Gitbook版/README.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "05e07f5741cdd020",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "169762c0897285b5",
+        "type": "split",
+        "children": [
+          {
+            "id": "66a927cf4be47876",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3090910a3bbb4bfa",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "d4cc5673d41093ba",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:AI",
+                    "matchingCase": true,
+                    "explainSearch": true,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "af328bc8c7dd1264",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 346,
+        "collapsed": true
+      },
+      "right": {
+        "id": "6e7011190a6a4416",
+        "type": "split",
+        "children": [
+          {
+            "id": "2c47daab7a7f6b09",
+            "type": "tabs",
+            "dimension": 40.609137055837564,
+            "children": [
+              {
+                "id": "ec1d354533e6cbd2",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "0d92b31ac7bc3511",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "b4bbb6d3769d62dc",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "4f101d806a54a17c",
+            "type": "tabs",
+            "dimension": 59.390862944162436,
+            "children": [
+              {
+                "id": "450ad81cf27a4dff",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "10-Learning/C++编程实战第二版/content/chapter1/1.1-chinese.md"
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "227681cc38450669",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "10-Learning/C++编程实战第二版/content/chapter1/1.1-chinese.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "60ed30d1cc6d4c8d",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 245
+      },
+      "active": "05e07f5741cdd020"
+    }
+  },
+  "active": "文献阅读"
+}

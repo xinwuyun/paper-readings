@@ -1,0 +1,303 @@
+{
+  "main": {
+    "id": "9a0780749afe3857",
+    "type": "split",
+    "children": [
+      {
+        "id": "441c77c4d20c99cf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "10-Learning/13-计算机图形学/1-overview.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "441c77c4d20c99cf",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10-Learning/13-计算机图形学/1-overview.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "441c77c4d20c99cf",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10-Learning/2.智能计算系统/1. 第一讲：概述.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "441c77c4d20c99cf",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01-Diary/日志存档/2023-10-16.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "441c77c4d20c99cf",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"09-Templates/日志模板.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":2.0754716981132075}"
+            },
+            {
+              "leaf": "441c77c4d20c99cf",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01-Diary/日志存档/2023-10-16.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+            },
+            {
+              "leaf": "441c77c4d20c99cf",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"09-Templates/日志模板.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "441c77c4d20c99cf",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01-Diary/日志存档/2023-10-16.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "441c77c4d20c99cf",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10-Learning/13-计算机图形学/1-overview.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0.7708333333333334}"
+            },
+            {
+              "leaf": "441c77c4d20c99cf",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10-Learning/other/物联网随堂作业3.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0.0642361111111111}"
+            },
+            {
+              "leaf": "441c77c4d20c99cf",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01-Diary/日志存档/2023-10-10.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":1.6226415094339623}"
+            },
+            {
+              "leaf": "441c77c4d20c99cf",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01-Diary/日志存档/2023-10-09.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "441c77c4d20c99cf",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"08-Assets/新建todo.gif\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "441c77c4d20c99cf",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01-Diary/日志存档/2023-10-09.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "441c77c4d20c99cf",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"08-Assets/新建todo.gif\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "441c77c4d20c99cf",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01-Diary/日志存档/2023-10-09.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "441c77c4d20c99cf",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "169762c0897285b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "66a927cf4be47876",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3090910a3bbb4bfa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "d4cc5673d41093ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "af328bc8c7dd1264",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 195
+  },
+  "right": {
+    "id": "6e7011190a6a4416",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c47daab7a7f6b09",
+        "type": "tabs",
+        "dimension": 40.609137055837564,
+        "children": [
+          {
+            "id": "ec1d354533e6cbd2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "0d92b31ac7bc3511",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "b4bbb6d3769d62dc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "4f101d806a54a17c",
+        "type": "tabs",
+        "dimension": 59.390862944162436,
+        "children": [
+          {
+            "id": "450ad81cf27a4dff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "10-Learning/13-计算机图形学/1-overview.md"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "227681cc38450669",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "10-Learning/13-计算机图形学/1-overview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "60ed30d1cc6d4c8d",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100,
+    "collapsed": true
+  },
+  "active": "441c77c4d20c99cf",
+  "lastOpenFiles": [
+    "10-Learning/13-计算机图形学/1-overview.md",
+    "10-Learning/2.智能计算系统/1. 第一讲：概述.md",
+    "01-Diary/日志存档/2023-10-16.md",
+    "09-Templates/日志模板.md",
+    "10-Learning/other/物联网随堂作业3.md",
+    "01-Diary/日志存档/2023-10-10.md",
+    "01-Diary/日志存档/2023-10-09.md",
+    "08-Assets/新建todo.gif",
+    "10-Learning/12-sjtuCSP/03-virtualization.md",
+    "08-Assets/CSP-03 virt.pdf"
+  ]
+}

@@ -1,9 +1,5 @@
 # 忽略的目录
 .trash/
-.obsidian
-# 忽略的文件
-.obsidian/workspace
-.obsidian/plugins/recent-files-obsidian/data.json
 
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 

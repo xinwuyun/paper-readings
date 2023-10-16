@@ -1,0 +1,10 @@
+{
+  "hidden": true,
+  "hiddenList": [
+    "lib",
+    "public",
+    "styles",
+    "pages",
+    "components"
+  ]
+}
